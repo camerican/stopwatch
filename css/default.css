@@ -1,0 +1,16 @@
+
+body{
+  background-color: aqua;
+  color: blue;
+  text-align: center
+}
+
+#clock{
+  font-size: 5em;
+  font-family: sans-serif;
+  text-align: center;
+  margin-top: 100px;
+}
+button {
+  font-size: 3em;
+}
